@@ -1,0 +1,32 @@
+  /*Estilos Generales*/
+  body {
+    font-family: cursive;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 1rem;
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.menu{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.container {
+    display: flex;
+    flex-wrap: initial;
+    justify-content: right;
+    padding: 1rem;
+}
+
